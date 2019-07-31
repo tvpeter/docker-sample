@@ -1,6 +1,6 @@
 # Docker
 
-### Docker-machine commands
+## Docker-machine commands
 
 =====================
 
@@ -78,7 +78,7 @@ to delete a container with its created vol, use
 
 here's a really nice image of a docker container lifecycle
 
-![container lifecycle][container-lifecycle.png]
+![container lifecycle][./container-lifecycle.png]
 
 _Credit/src: [Nitin Agarwal](https://medium.com/@nagarwal/lifecycle-of-docker-container-d2da9f85959)_
 
